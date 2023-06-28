@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Morning Meditation",
+    "category": "Guided Meditation",
+    "description": "Start your day with a peaceful and focused mind through this morning meditation. Allow yourself to let go of stress and set positive intentions for the day ahead.",
+    "link": "https://github.com/mehmetserdar/images-repo-main/raw/master/Morning%20Meditation.mp3"
+  },
+  {
+    "name": "Deep Relaxation",
+    "category": "Guided Meditation",
+    "description": "Indulge in deep relaxation as you release tension from your body and mind. This meditation is designed to help you achieve a state of profound calm and tranquility.",
+    "link": "https://github.com/mehmetserdar/images-repo-main/raw/master/Deep%20Relaxation.mp3"
+  },
+  {
+    "name": "Mindful Breathing",
+    "category": "Breathing Meditation",
+    "description": "Connect with your breath and bring your awareness to the present moment. This guided meditation will help you cultivate mindfulness and find inner peace through focused breathing techniques.",
+    "link": "https://github.com/mehmetserdar/images-repo-main/raw/master/Mindful%20Breathing.mp3"
+  },
+  {
+    "name": "Body-Scan Meditation",
+    "category": "Mindfulness Meditation",
+    "description": "Bring attention to different parts of your body and observe sensations, promoting deep relaxation and body awareness. This meditation cultivates a sense of connection between the mind and body.",
+    "link": "https://github.com/mehmetserdar/images-repo-main/raw/master/Body%20Scan.mp3"
+  },
+  {
+    "name": "Stress Relief",
+    "category": "Guided Meditation",
+    "description": "Release stress and tension with this calming meditation. Allow yourself to unwind, relax, and restore balance to your mind and body.",
+    "link": "https://github.com/mehmetserdar/images-repo-main/raw/master/Stress%20Relief.mp3"
+  }
+]
