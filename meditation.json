@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "name": "Morning Meditation",
     "free": "true",
     "category": "Guided Meditation",
@@ -7,6 +8,7 @@
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Morning%20Meditation.mp3?raw=true"
   },
   {
+    "id": 1,
     "name": "Deep Relaxation",
     "free": "true",
     "category": "Guided Meditation",
@@ -14,6 +16,7 @@
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Deep%20Relaxation.mp3?raw=true"
   },
   {
+    "id": 2,
     "name": "Mindful Breathing",
     "free": "true",
     "category": "Breathing Meditation",
@@ -21,6 +24,7 @@
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Mindful%20Breathing.mp3?raw=true"
   },
   {
+    "id": 3,
     "name": "Body-Scan Meditation",
     "free": "true",
     "category": "Mindfulness Meditation",
@@ -28,6 +32,7 @@
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Body%20Scan.mp3?raw=true"
   },
   {
+    "id": 4,
     "name": "Stress Relief",
     "free": "false",
     "category": "Guided Meditation",
