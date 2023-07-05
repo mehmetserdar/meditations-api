@@ -3,7 +3,8 @@
     "id": 0,
     "name": "Morning Meditation",
     "free": "true",
-    "category": "Guided Meditation",
+    "category": "Guided",
+    "categoryID": 0,
     "description": "Start your day with a peaceful and focused mind through this morning meditation. Allow yourself to let go of stress and set positive intentions for the day ahead.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Morning%20Meditation.mp3?raw=true"
   },
@@ -11,7 +12,8 @@
     "id": 1,
     "name": "Deep Relaxation",
     "free": "true",
-    "category": "Guided Meditation",
+    "category": "Guided",
+    "categoryID": 0,
     "description": "Indulge in deep relaxation as you release tension from your body and mind. This meditation is designed to help you achieve a state of profound calm and tranquility.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Deep%20Relaxation.mp3?raw=true"
   },
@@ -19,7 +21,8 @@
     "id": 2,
     "name": "Mindful Breathing",
     "free": "true",
-    "category": "Breathing Meditation",
+    "category": "Breathing",
+    "categoryID": 1,
     "description": "Connect with your breath and bring your awareness to the present moment. This guided meditation will help you cultivate mindfulness and find inner peace through focused breathing techniques.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Mindful%20Breathing.mp3?raw=true"
   },
@@ -27,7 +30,8 @@
     "id": 3,
     "name": "Body-Scan Meditation",
     "free": "true",
-    "category": "Mindfulness Meditation",
+    "category": "Mindfulness",
+    "categoryID": 2,
     "description": "Bring attention to different parts of your body and observe sensations, promoting deep relaxation and body awareness. This meditation cultivates a sense of connection between the mind and body.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Body%20Scan.mp3?raw=true"
   },
@@ -35,7 +39,8 @@
     "id": 4,
     "name": "Breath, Sound, and Body",
     "free": "true",
-    "category": "Mindfulness Meditation",
+    "category": "Mindfulness",
+    "categoryID": 2,
     "description": "Immerse yourself in the present moment by focusing on the sensations of breath, sounds, and the body. This meditation helps develop a heightened awareness of your surroundings and inner experiences.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%2C%20Sound%2C%20and%20Body.mp3?raw=true"
   },
@@ -43,7 +48,8 @@
     "id": 5,
     "name": "Compassionate Breath",
     "free": "false",
-    "category": "Compassion Meditation",
+    "category": "Breath",
+    "categoryID": 1,
     "description": "Combine the practice of focused breathing with cultivating compassion towards yourself and others. This meditation encourages a deep sense of empathy and kindness.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Compassionate%20Breath.mp3?raw=true"
   },
@@ -51,7 +57,8 @@
     "id": 6,
     "name": "Stress Relief",
     "free": "false",
-    "category": "Guided Meditation",
+    "category": "Guided",
+    "categoryID": 0,
     "description": "Release stress and tension with this calming meditation. Allow yourself to unwind, relax, and restore balance to your mind and body.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Stress%20Relief.mp3?raw=true"
   },
@@ -59,7 +66,8 @@
     "id": 7,
     "name": "Breath, Sounds, Body, Thoughts, Emotions",
     "free": "false",
-    "category": "Mindfulness Meditation",
+    "category": "Mindfulness",
+    "categoryID": 2,
     "description": "Engage your senses and observe the breath, sounds, body sensations, thoughts, and emotions as they arise and pass. This meditation promotes non-judgmental awareness and acceptance.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%2C%20Sounds%2C%20Body%2C%20Thoughts%2C%20Emotions.mp3?raw=true"
   },
@@ -67,7 +75,8 @@
     "id": 8,
     "name": "Ten-Minute Wisdom Meditation",
     "free": "false",
-    "category": "Guided Meditation",
+    "category": "Guided",
+    "categoryID": 0,
     "description": "Take a short break to cultivate wisdom and insight through this ten-minute guided meditation. Reflect on meaningful teachings and integrate them into your daily life.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Ten-Minute%20Wisdom%20Meditation.mp3?raw=true"
   }
