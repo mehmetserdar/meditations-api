@@ -33,10 +33,42 @@
   },
   {
     "id": 4,
+    "name": "Breath, Sound, and Body",
+    "free": "true",
+    "category": "Mindfulness Meditation",
+    "description": "Immerse yourself in the present moment by focusing on the sensations of breath, sounds, and the body. This meditation helps develop a heightened awareness of your surroundings and inner experiences.",
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%20Sound%20and%20Body.mp3?raw=true"
+  },
+  {
+    "id": 5,
+    "name": "Compassionate Breath",
+    "free": "false",
+    "category": "Compassion Meditation",
+    "description": "Combine the practice of focused breathing with cultivating compassion towards yourself and others. This meditation encourages a deep sense of empathy and kindness.",
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Compassionate%20Breath.mp3?raw=true"
+  },
+  {
+    "id": 6,
     "name": "Stress Relief",
     "free": "false",
     "category": "Guided Meditation",
     "description": "Release stress and tension with this calming meditation. Allow yourself to unwind, relax, and restore balance to your mind and body.",
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Stress%20Relief.mp3?raw=true"
+  },
+  {
+    "id": 7,
+    "name": "Breath, Sounds, Body, Thoughts, Emotions",
+    "free": "false",
+    "category": "Mindfulness Meditation",
+    "description": "Engage your senses and observe the breath, sounds, body sensations, thoughts, and emotions as they arise and pass. This meditation promotes non-judgmental awareness and acceptance.",
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%20Sounds%20Body%20Thoughts%20Emotions.mp3?raw=true"
+  },
+  {
+    "id": 8,
+    "name": "Ten-Minute Wisdom Meditation",
+    "free": "false",
+    "category": "Guided Meditation",
+    "description": "Take a short break to cultivate wisdom and insight through this ten-minute guided meditation. Reflect on meaningful teachings and integrate them into your daily life.",
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Ten-Minute%20Wisdom%20Meditation.mp3?raw=true"
   }
 ]
