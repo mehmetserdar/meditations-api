@@ -37,7 +37,7 @@
     "free": "true",
     "category": "Mindfulness Meditation",
     "description": "Immerse yourself in the present moment by focusing on the sensations of breath, sounds, and the body. This meditation helps develop a heightened awareness of your surroundings and inner experiences.",
-    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%20Sound%20and%20Body.mp3?raw=true"
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%2C%20Sound%2C%20and%20Body.mp3?raw=true"
   },
   {
     "id": 5,
@@ -61,7 +61,7 @@
     "free": "false",
     "category": "Mindfulness Meditation",
     "description": "Engage your senses and observe the breath, sounds, body sensations, thoughts, and emotions as they arise and pass. This meditation promotes non-judgmental awareness and acceptance.",
-    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%20Sounds%20Body%20Thoughts%20Emotions.mp3?raw=true"
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%2C%20Sounds%2C%20Body%2C%20Thoughts%2C%20Emotions.mp3?raw=true"
   },
   {
     "id": 8,
