@@ -46,6 +46,15 @@
   },
   {
     "id": 5,
+    "name": "Emotional Healing",
+    "free": "true",
+    "category": "Guided",
+    "categoryID": 0,
+    "description": "Nurture and heal your emotions through this guided meditation. Allow yourself to acknowledge and release any emotional pain or blockages, fostering a sense of inner peace and healing.",
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Emotional%20Healing.mp3?raw=true"
+  },
+  {
+    "id": 6,
     "name": "Compassionate Breath",
     "free": "false",
     "category": "Breath",
@@ -54,7 +63,7 @@
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Compassionate%20Breath.mp3?raw=true"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Stress Relief",
     "free": "false",
     "category": "Guided",
@@ -63,7 +72,7 @@
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Stress%20Relief.mp3?raw=true"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Breath, Sounds, Body, Thoughts, Emotions",
     "free": "false",
     "category": "Mindfulness",
@@ -72,7 +81,7 @@
     "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Breath%2C%20Sounds%2C%20Body%2C%20Thoughts%2C%20Emotions.mp3?raw=true"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Ten-Minute Wisdom Meditation",
     "free": "false",
     "category": "Guided",
