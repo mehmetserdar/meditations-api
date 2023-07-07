@@ -51,7 +51,7 @@
     "category": "Breathing",
     "categoryID": 1,
     "description": "This shortened breathing meditation is designed to provide a quick and effective way to find calmness and relaxation in the midst of a busy day.",
-    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/One%20Minute%20Breathing.mp3?raw=true"
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/One%20Minute%20Breathing1.mp3?raw=true"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "category": "Breath",
     "categoryID": 1,
     "description": "Combine the practice of focused breathing with cultivating compassion towards yourself and others. This meditation encourages a deep sense of empathy and kindness.",
-    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Compassionate%20Breath1.mp3?raw=true"
+    "link": "https://github.com/mehmetserdar/meditations-api/blob/main/Compassionate%20Breath.mp3?raw=true"
   },
   {
     "id": 8,
